@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```go
+package life
+
+if panic(nil)
+  defer pain(loss)
+  starts.with(one)
+
+```
 <!--
 **Purp16/Purp16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
